@@ -1,6 +1,7 @@
 # Walmart-sales-project
 #I will clean a dataset containing Walmart sales data and analyze sales, unemployment rate, CPI, fuel price, and other fields.
 Datacamp: https://www.datacamp.com/blog/data-analyst-resume
+Job types: https://www.dataanalyst.com/data-analyst-jobs
 
 Walmart Sales Project
 
