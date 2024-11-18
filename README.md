@@ -1,5 +1,6 @@
 # Walmart-sales-project
 #I will clean a dataset containing Walmart sales data and analyze sales, unemployment rate, CPI, fuel price, and other fields.
+Datacamp: https://www.datacamp.com/blog/data-analyst-resume
 
 Walmart Sales Project
 
@@ -25,3 +26,4 @@ Which holidays affect weekly sales the most?
 Which stores in the dataset have the lowest and highest unemployment rate?  What factors do you think are impacting the unemployment rate?
 Is there any correlation between CPI and Weekly Sales?  How does the correlation differ when the Holiday Flag is 0 versus when the Holiday Flag is 1?
 Why do you think Fuel Price is included in this dataset?  What conclusions can be made about Fuel Price compared to any of the other fields?
+
