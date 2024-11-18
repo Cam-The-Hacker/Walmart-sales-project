@@ -2,6 +2,7 @@
 #I will clean a dataset containing Walmart sales data and analyze sales, unemployment rate, CPI, fuel price, and other fields.
 Datacamp: https://www.datacamp.com/blog/data-analyst-resume
 Job types: https://www.dataanalyst.com/data-analyst-jobs
+Resume: https://app.wonsulting.ai/resume/036f8b16-f120-457c-8ee8-2c284a38d663
 
 Walmart Sales Project
 
